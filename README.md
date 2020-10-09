@@ -1,1 +1,1 @@
-The app has been moved, please click here to open in the new path: https://artemdemo.github.io/imgreview/
+The app has been moved, please click here to open in the new path: https://github.com/artemdemo/imgreview
